@@ -1,9 +1,9 @@
 Profiling Data.
-Fit Baseline model with 10-Fold Cross-Validation.
-Fit Logistic Regression model with 10-Fold Cross-Validation.
-Fit Naive Bayes model with 10-Fold Cross-Validation.
-Fit Decision Tree model with 10-Fold Cross-Validation.
-Fit SVM model with 10-Fold Cross-Validation.
-Fit Random Forrest model with 10-Fold Cross-Validation.
+Baseline model with 10-Fold Cross-Validation.
+Logistic Regression model with 10-Fold Cross-Validation.
+Naive Bayes model with 10-Fold Cross-Validation.
+Decision Tree model with 10-Fold Cross-Validation.
+SVM model with 10-Fold Cross-Validation.
+Random Forrest model with 10-Fold Cross-Validation.
 Plot ROC Curve Random Forrest.
-Fit Random Forrest model with 10-Fold Cross-Validation.
+Random Forrest model with 10-Fold Cross-Validation.
